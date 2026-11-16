@@ -1,0 +1,2 @@
+# Tell GitHub Linguist to ignore third-party/vendored files
+client/include/json.hpp linguist-vendored
